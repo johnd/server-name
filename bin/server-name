@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'server-name'
+puts ServerName.new(ARGV).generate
