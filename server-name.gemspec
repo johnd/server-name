@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "server-name"
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.executables << 'server-name'
   s.date = '2014-06-25'
   s.summary = "Returns a colour + animal combination suitable for naming a server/instance."
