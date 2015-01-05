@@ -32,6 +32,7 @@ chough
 clam
 cobra
 cockroach
+cockwomble
 cod
 cormorant
 coyote
@@ -60,6 +61,7 @@ elephant
 elk
 emu
 falcon
+farage
 ferret
 finch
 fish
